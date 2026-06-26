@@ -31,6 +31,19 @@ The analysis is based on three datasets:
 
 Raw Data → Data Validation → Data Cleaning → Sentiment Analysis → Dashboard Development → Business Recommendations
 
+## Data Validation
+
+Before performing any analysis, the datasets were validated to identify potential data quality issues that could affect the accuracy of the results.
+
+The validation process focuses on checking:
+- Duplicate records
+- Missing values
+- Inconsistent text formatting
+- Invalid or unexpected values
+- Data consistency across tables
+
+This step ensures that the datasets are reliable before moving on to data cleaning and transformation.
+
 ## Project Status
 
 Data validation and exploration currently in progress.
