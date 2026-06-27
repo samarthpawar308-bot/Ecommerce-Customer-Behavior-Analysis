@@ -44,6 +44,21 @@ The validation process focuses on checking:
 
 This step ensures that the datasets are reliable before moving on to data cleaning and transformation.
 
+## Data Cleaning & Transformation
+
+After validating the datasets, data cleaning and transformation were performed to improve data quality and prepare the data for analysis.
+
+The cleaning process includes:
+
+* Removing logical duplicate records
+* Standardizing text values and formatting
+* Trimming unnecessary whitespace
+* Splitting combined columns into meaningful attributes
+* Preserving valid NULL values where they represent actual business events
+* Creating cleaned datasets for further analysis in Python and Power BI
+
+These transformations ensure consistency across the datasets and provide a reliable foundation for downstream analytics.
+
 ## Project Status
 
 Data validation and exploration currently in progress.
