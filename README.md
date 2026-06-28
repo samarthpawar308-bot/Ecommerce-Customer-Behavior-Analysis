@@ -59,6 +59,20 @@ The cleaning process includes:
 
 These transformations ensure consistency across the datasets and provide a reliable foundation for downstream analytics.
 
+## Exploratory Data Analysis (EDA)
+
+Before applying sentiment analysis, exploratory data analysis was performed to understand the structure and quality of the cleaned datasets.
+
+The analysis focused on:
+
+* Examining customer review data
+* Understanding rating distributions
+* Identifying missing values and text inconsistencies
+* Exploring review lengths and common patterns
+* Preparing the data for sentiment classification
+
+This step provides a better understanding of the data and ensures it is suitable for further analysis using Python.
+
 ## Project Status
 
 Data validation and exploration currently in progress.
