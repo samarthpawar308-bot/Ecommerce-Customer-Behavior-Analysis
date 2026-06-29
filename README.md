@@ -85,6 +85,17 @@ The analysis includes:
 
 The processed sentiment data is exported for further analysis in Power BI.
 
+## Processed Data Export
+
+The sentiment analysis results were exported as structured datasets for further reporting and dashboard development.
+
+The exported datasets include:
+
+* **customer_reviews_sentiment.csv** – Contains customer reviews with sentiment scores and sentiment labels.
+* **negative_reviews_issues.csv** – Contains categorized issues extracted from negative customer reviews for business analysis.
+
+These processed datasets serve as the primary data source for the Power BI dashboard and business insights.
+
 ## Project Status
 
 Data validation and exploration currently in progress.
