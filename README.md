@@ -73,6 +73,18 @@ The analysis focused on:
 
 This step provides a better understanding of the data and ensures it is suitable for further analysis using Python.
 
+## Sentiment Analysis
+
+Customer reviews were analyzed using Python to understand overall customer sentiment and identify how customers perceive different products and services.
+
+The analysis includes:
+
+* Classifying customer reviews into Positive, Neutral, and Negative sentiment
+* Calculating sentiment scores for each review
+* Preparing sentiment labels for business reporting and dashboard visualization
+
+The processed sentiment data is exported for further analysis in Power BI.
+
 ## Project Status
 
 Data validation and exploration currently in progress.
