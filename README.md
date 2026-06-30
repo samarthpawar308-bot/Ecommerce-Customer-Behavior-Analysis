@@ -96,19 +96,44 @@ The exported datasets include:
 
 These processed datasets serve as the primary data source for the Power BI dashboard and business insights.
 
-## Power BI Dashboard
+## Interactive Dashboard
 
-An interactive Power BI dashboard was developed to visualize key business metrics and support data-driven decision making.
+An interactive Power BI dashboard was developed to transform the processed datasets into actionable business insights. The dashboard enables users to monitor customer behavior, conversion performance, customer sentiment, product health, and marketing effectiveness through an intuitive interface.
 
-The dashboard includes:
+### Dashboard Features
 
-* Customer conversion funnel analysis
-* Customer sentiment distribution
-* Product performance overview
-* Marketing campaign performance
-* Interactive filters for detailed exploration
+The dashboard consists of four interactive pages:
 
-The dashboard transforms the processed datasets into an interactive reporting solution, enabling users to explore customer behavior, identify business trends, and monitor overall performance.
+- **Overview** – Presents key business metrics, conversion rate, sentiment distribution, and product performance.
+- **Conversion Analysis** – Visualizes the customer journey, conversion funnel, and drop-off analysis.
+- **Customer Sentiment** – Analyzes review sentiment, customer ratings, and reasons behind negative reviews.
+- **Marketing Analysis** – Evaluates marketing engagement, campaign performance, and content effectiveness.
+
+Interactive filters allow users to explore the data by year and other business dimensions.
+
+## Dashboard Preview
+
+### Overview
+
+![Overview Dashboard](assets/overview.png)
+
+---
+
+### Conversion Analysis
+
+![Conversion Analysis](assets/conversion.png)
+
+---
+
+### Customer Sentiment
+
+![Customer Sentiment](assets/Customer_sentiment.png)
+
+---
+
+### Marketing Analysis
+
+![Marketing Analysis](assets/marketing.png)
 
 ## Project Status
 
