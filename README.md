@@ -96,6 +96,20 @@ The exported datasets include:
 
 These processed datasets serve as the primary data source for the Power BI dashboard and business insights.
 
+## Power BI Dashboard
+
+An interactive Power BI dashboard was developed to visualize key business metrics and support data-driven decision making.
+
+The dashboard includes:
+
+* Customer conversion funnel analysis
+* Customer sentiment distribution
+* Product performance overview
+* Marketing campaign performance
+* Interactive filters for detailed exploration
+
+The dashboard transforms the processed datasets into an interactive reporting solution, enabling users to explore customer behavior, identify business trends, and monitor overall performance.
+
 ## Project Status
 
 Data validation and exploration currently in progress.
