@@ -135,6 +135,26 @@ Interactive filters allow users to explore the data by year and other business d
 
 ![Marketing Analysis](assets/marketing.png)
 
-## Project Status
+## Executive Summary
 
-Data validation and exploration currently in progress.
+ShopEasy, a fictional e-commerce company, wanted to understand why strong customer engagement was not translating into higher sales. This project analyzes customer journey data, customer reviews, and marketing performance to uncover conversion bottlenecks, customer sentiment trends, and product performance insights.
+
+Using SQL, Python, and Power BI, the data was validated, cleaned, analyzed, and transformed into an interactive dashboard that supports data-driven business decisions.
+
+## Key Findings
+
+- A significant percentage of customers dropped off during the checkout stage, indicating a potential issue in the purchase process.
+- Most customer reviews expressed positive sentiment, while negative reviews highlighted recurring issues such as product quality and delivery experience.
+- Certain products consistently outperformed others in customer ratings and engagement.
+- Marketing campaigns generated strong engagement, but conversion rates varied across channels.
+
+## Business Recommendations
+
+Based on the analysis, the following recommendations are suggested:
+
+- Optimize the checkout experience to reduce customer drop-offs.
+- Address recurring issues identified in negative customer reviews.
+- Focus marketing investment on campaigns with higher conversion performance.
+- Monitor product sentiment regularly to identify quality concerns early.
+- Continue using interactive dashboards for ongoing business monitoring.
+
